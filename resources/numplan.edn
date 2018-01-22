@@ -1,0 +1,13 @@
+{:numplan
+ {:AMER
+  {:Ottawa   {:DN    (range 55100 55300) :PT "PT-Ottawa-Dev" :CSS "CSS-Ottawa-International"
+              :e_164 "6132381761"}
+   :Toronto  {:DN    (range 60300 60400) :PT "PT-Toronto-Dev" :CSS "CSS-Toronto-International"
+              :e_164 "416956XXXX"}
+   :Waterloo {:DN    (range 82000 84000) :PT "PT-Waterloo-Dev" :CSS "CSS-Waterloo-International"
+              :e_164 "5198887111"}}
+  :APAC
+  {:Bangalore {:DN (range 1 2) :e_164 ""}
+   :Hyderabad {:DN (range 1 2) :e_164 ""}}
+  :EMEA
+  {:Munich {:DN (range 21000) :e_164 "4629XXXX"}}}}
